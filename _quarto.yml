@@ -9,7 +9,6 @@ website:
         text: Home
       - href: about.qmd
         text: Indentured Servitude
-      - href: README.md
       
 
 format:
