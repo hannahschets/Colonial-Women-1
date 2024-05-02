@@ -5,17 +5,26 @@ website:
   title: "Colonial Women"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: Indentured Servitude
+      - href: womensroles.qmd
+        text: Women's Roles
+      - href: Servitude.qmd
+        text: Servitude
+      - href: Henry Smith.qmd
+        text: Henry Smith of Accomack
+      - href: Sources.qmd
+        text: Sources
+        
+      
       
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
+    font: $font-family-monospace
+    
+    
 
 
 

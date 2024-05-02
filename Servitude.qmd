@@ -1,8 +1,6 @@
 ---
-title: "About"
+title: "Servitude in the Colonial Period"
 ---
-## Servitude in the Colonial Period
-    - The experiences of enslaved individuals varied by gender
 
 ### Indentured Servitude
 - The first indentured servants arrived to Virginia in 1624
@@ -10,10 +8,18 @@ title: "About"
 - Many times, someone would agree to an indenture contract because they could not afford the cost of transportation to the Americas
     - Some people were "spirited" or kidnapped to be taken to the New World and sold into servitude (Snyder) 
 
+### Shift to Enslaved Laborers
+- As indentured servitude became more financially burdensome in the colonies, farmers turned to enslaved labor. 
+- This switch might be due to the switch from subsistance to staple crop farming. 
+- With a higher demand for staple crops, there was a higher demand for skilled labor. 
+- As operations grew, white laborer's roles changed from doing labor work to working as overseerers and plantation managers.
+- As time went on, enslaved laborers born in the colonies became less expensive to traffic and train. (Galenson)
+
 ### Enslavement 
--
--
--
+- Enslaved laborers roles differed by plantation. 
+- Skilled and unskilled laborers were required to run a plantation. 
+- Enslaved workers were trafficked and purchased, and had no opportunities to become free except for manumision. 
+
 
 ### Labor
 - At the beginning of the colonial period, labor was typically unskilled with a shift to skilled labor happening with the introduction of staple crops.

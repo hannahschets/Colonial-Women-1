@@ -1,6 +1,12 @@
 ---
-title: "White Women's Roles and Expectations"
+title: "Women's Roles and Expectations"
 ---
+::: {.callout-note appearance="simple"}
+
+This website is a work in progress!
+
+:::
+
 ### Married Women 
 - Women's roles in their homes depended on the supplies they could afford
 - Women were largely reponsible for all the things that happened inside the home
@@ -17,6 +23,19 @@ title: "White Women's Roles and Expectations"
   - Women often worked jobs that would later be reserved for men, like blacksmiths
 - Women would very quickly become experts in their fields (Treckel)  
 
+### Childbirth
+- Women were expected to start and raise a family, but there were differences between Black and white women's childbirth and rearing experiences. 
+- Black women had higher gaps between the births of their children. 
+  - This might have to do with breastfeeding, abstinence, or types of labor. 
+- White women breastfed their children for a shorter period of time. 
+- Death rates amongst women during childbirth was much higher for Black women. 
+- Black women were required to abandon their cultural practices surrounding childbirth while giving birth in a white society. 
+  - Since people were more spread out, it was rare for a Black woman to be surrounded by other Black women during this period. 
+- Black children were less likely to survive childhood than white children. (Gundersen)
+- Colonial women tended to have more successful births than their English relatives due to higher health. (Kirkman)
+
+
+![Virginia Population by Year](populationgraph.png){width=500}
 
 ### Public and Private Life 
 - In the early colonial period, wealthy women were allowed to exist within the public sphere, but this changed in the later colonial period. 
